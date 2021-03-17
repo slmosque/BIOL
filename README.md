@@ -16,6 +16,6 @@ Python pbs script model with variables. It has variables defined at the top of t
 #### commandline.png  
 Image of command line showing execution of write_razor_pbs.py in trestles cluster. The execution of the script shows that $HOME/local/scripts directory in the AHPCC has been correctly added to my PATH.
 
-![Picture n1. Screenshot of scripts executed in /storage/slmosque directory from $HOME/local/scripts](commandline.png)
+"![Picture n1. Screenshot of scripts executed in /storage/slmosque directory from $HOME/local/scripts](commandline.png)"
 
 
