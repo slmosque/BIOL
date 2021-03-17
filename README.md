@@ -18,4 +18,4 @@ Image of command line showing execution of write_razor_pbs.py in trestles cluste
 
 ![Picture n1. Screenshot of scripts executed in /storage/slmosque directory from $HOME/local/scripts](commandline.png)
 
-
+#### Picture n1. Screenshot of scripts executed in /storage/slmosque directory from $HOME/local/scripts
