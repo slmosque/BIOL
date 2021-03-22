@@ -21,7 +21,7 @@ Image of command line showing execution of write_razor_pbs.py in trestles cluste
 #### Picture n1. Screenshot of scripts executed in /storage/slmosque directory from $HOME/local/scripts
 
 #### nucleotide_composition.ipynb  
-This is a Jupyter notebook used to calculate the number of DNA bases in the gene sequence nad4L (nad4L was assigned to dna_Sequence variable), ATCG number of bases, and their frequency.  
+This is a Jupyter notebook used to calculate the number of DNA bases in the gene sequence nad4L (nad4L was assigned to dna_sequence variable), ATCG number of bases, and their frequency.  
 
 #### nucleotide_composition.py  
 Output file generated from the execution of script contained in nucleotide_composition.ipynb, gene nad4L was assigned to dna_sequence variable.  
