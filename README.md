@@ -27,5 +27,7 @@ This is a Jupyter notebook used to calculate the number of DNA bases in the gene
 Output file generated from the execution of script contained in nucleotide_composition.ipynb, gene nad4L was assigned to dna_sequence variable.  
 
 #### nucleotide_composition1.py   
-Python script (executable) for DNA sequence analysis generated from nucleotide_composition.ipynb. (In VS code you can transform from Jupyter notebook directly into Python script)   
+Python script (executable) for DNA sequence analysis generated from nucleotide_composition.ipynb. (In VS code you can transform from Jupyter notebook directly into Python script)  
 
+#### parse_GFF.py   
+Python script (executable) to extract DNA sequences from a fasta file (genome) using the coordinates of specific genes from gff file (start and stop codon coordinates)
