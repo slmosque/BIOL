@@ -33,4 +33,14 @@ Python script (executable) for DNA sequence analysis generated from nucleotide_c
 Python script (executable) from class to extract DNA sequences from a fasta file (genome) using the coordinates of specific genes from gff file (start and stop codon coordinates)
 
 #### parse_GFF.py   
-Python script (executable) to extract DNA sequences from a fasta file (genome) using the coordinates of specific genes from gff file (start and stop codon coordinates)
+Python script (executable) to extract DNA sequences from a fasta file (genome) using the coordinates of specific genes from gff file (start and stop codon coordinates)    
+
+#### parse_GFF1.py   
+Python script (executable) to extract DNA sequences from a fasta file (genome) using the coordinates of specific genes from gff file (start and stop codon coordinates). Based on that a new function was added to reverse complement genes that were annotated in the (-) strand      
+
+#### parse_GFFCDS.py   
+Python script (executable) to extract DNA sequences from a fasta file (genome) using the coordinates of specific genes from gff file (start and stop codon coordinates) and it selects for exons present in the genome  
+
+#### test.py   
+Python script (executable) to create a function to reverse complement genes annotated in the (-) strand. (Work in progress)  
+
